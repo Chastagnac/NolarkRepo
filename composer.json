@@ -8,6 +8,6 @@
         }
     ],
     "require": {
-        "twig/twig": "v3.0.3"
+        "twig/twig": "v3.4.3"
     }
 }
